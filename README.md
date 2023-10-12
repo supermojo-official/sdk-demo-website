@@ -7,4 +7,8 @@ Contact Supermojo to register and get the following information
 * TokenAddress
 
 ## Target Environment
-Testing of the SDK will utilize the SM Partner Integration environment and is subject to outages.  If there are issues with the SDK, please wait up to 10 minutes and try again.  If your problems persist, contact SM support at [Support](mailto:support@supermojo.com) 
+Testing of the SDK will utilize the SM Partner Integration environment and is subject to outages and database resets.  If there are issues with the SDK, please wait up to 10 minutes and try again.  If your problems persist, contact SM support at [Support](mailto:support@supermojo.com) 
+
+### Test Payments
+The SM Partner Integration environment uses test payments and test net block chains.  Use the following for test payments
+* Credit Card Number: 4007400000000007 (Other fields can have any value)
