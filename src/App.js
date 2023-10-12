@@ -8,7 +8,7 @@ function App() {
                 <SupermojoPayButton
                     contractAddress="rGJheK965Vf2jwEKiBM9gp8eEjVTt48PEk"
                     clientId="9673864a-6e56-40f2-bb30-64d6fe87cf5f"
-                    targetEnv="local" //optional
+                    customEnvUrl='https://checkout-qa.supermojo.com/'
                 />
             </header>
         </div>
