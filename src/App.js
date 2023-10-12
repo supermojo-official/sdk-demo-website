@@ -6,8 +6,8 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <SupermojoPayButton
-                    contractAddress="rGJheK965Vf2jwEKiBM9gp8eEjVTt48PEk"
-                    clientId="9673864a-6e56-40f2-bb30-64d6fe87cf5f"
+                    contractAddress="rMnt7GF5zBwAvvG7AaPWPMFi2dRKHLhurw"
+                    clientId="00056f70-3575-4e3e-ae0a-a4e9b2a4c9f0"
                     customEnvUrl='https://checkout-qa.supermojo.com/'
                 />
             </header>
