@@ -1,0 +1,2 @@
+export const CLIENT_ID = process.env.REACT_APP_CLINENT_ID || '00056f70-3575-4e3e-ae0a-a4e9b2a4c9f0';
+export const TOKEN_ADDRESS = process.env.REACT_APP_TOKEN_ADDRESS || 'rMnt7GF5zBwAvvG7AaPWPMFi2dRKHLhurw';
