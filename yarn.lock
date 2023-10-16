@@ -1752,17 +1752,17 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@supermojo-official/client-sdk-core@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@supermojo-official/client-sdk-core/-/client-sdk-core-1.2.1.tgz#0bfd7626f8e1a9e3e53c43fe5b5ae6da99379138"
-  integrity sha512-svX5n+v7Uit0Lseb2v0Wo9dfcTsoKgSouDhcSoqqkpXsU2Obuade0YdPoQJtKVhYtRfqja88KOC58/KDMyulBA==
+"@supermojo-official/client-sdk-core@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@supermojo-official/client-sdk-core/-/client-sdk-core-1.3.0.tgz#524c8f16cfad71d39bc132f1230a24efea4bfe63"
+  integrity sha512-ayRqZsQPG7IyRGtJYm2GQktM/Jl8tYRyCh1ZKMWFGNgMWku3EBgHbr8d+CKF6lP+xIw4nJsw5t7aSzLbhJq3aA==
 
-"@supermojo-official/client-sdk-react@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@supermojo-official/client-sdk-react/-/client-sdk-react-1.2.1.tgz#5bb395618c8057ec2b44a3ae0a978101a1f42550"
-  integrity sha512-Ke9HSjbTfEobMJ7ZVhrUlKALEsGU5+UNM19epy3T91sJqYLUnYw2w3l56vKJZLCYf2t9zCdJ7f9yDtXKLL6rbw==
+"@supermojo-official/client-sdk-react@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@supermojo-official/client-sdk-react/-/client-sdk-react-1.3.0.tgz#bd264a6756508a97cde75bcc30c065c55e163758"
+  integrity sha512-nJczo00jk4GGF5ysGfTHudZJRTFs6sPQNWikPccEF3Khj2tioaBu+8haicYdsN3JYg3g6MCcQsN8+EqV0ZHlYA==
   dependencies:
-    "@supermojo-official/client-sdk-core" "1.2.1"
+    "@supermojo-official/client-sdk-core" "1.3.0"
     postcss "^8.4.20"
     styled-components "^5.3.6"
 
